@@ -18,3 +18,20 @@
    Disadvantages
    - You have to target each element individually
    - No seperation between CSS and JSX# login-page
+   - **CSS Modules**   
+   Advantages
+   - Scoped CSS rules to a component
+   - CSS decoupled from JSX
+   - You write plain CSS
+   
+   Disadvantages
+   - You must know CSS
+   - You may end with lots of small CSS files in your project
+    - **Styled Components**   
+   Advantages
+   - Scoped CSS rules to a component
+   - You write plain CSS
+   
+   Disadvantages
+   - Must 'npm install styled-components'
+   - Couples CSS and JSX code
