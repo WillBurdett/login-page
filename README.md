@@ -29,9 +29,12 @@
    - You may end with lots of small CSS files in your project
     - **Styled Components**   
    Advantages
+   - Quick and easy to add
+   - Continue thinking in React (configurable styled functions)
    - Scoped CSS rules to a component
    - You write plain CSS
    
    Disadvantages
    - Must 'npm install styled-components'
    - Couples CSS and JSX code
+   - Must know CSS
